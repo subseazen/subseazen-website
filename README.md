@@ -1,6 +1,6 @@
 # Subseazen Engineering Services — Website
 
-A fast, SEO-friendly, fully static multi-page website (plus one optional PHP form handler). No build step, no framework — designed to drop straight into Hostinger shared hosting.
+A fast, SEO-friendly, fully static multi-page website (plus one optional PHP form handler).
 
 ---
 
