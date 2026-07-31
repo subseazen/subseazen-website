@@ -30,7 +30,7 @@ in the deploy zip.)
 
 ---
 
-## 2. Deploy to Hostinger (2 minutes)
+## 2. Deploy to Hostinger 
 
 1. Log in to **hPanel → Files → File Manager**.
 2. Open **`public_html`** and delete any default `index.html` placeholder.
